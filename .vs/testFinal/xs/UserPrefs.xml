@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{963A354F-8307-4627-AB0B-871561A336C2}|Default">
-  <MonoDevelop.Ide.ItemProperties.testFinal FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testFinal/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="testFinal/Views/Shared/_Layout.cshtml" Line="22" Column="132" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testFinal" expanded="True">
+            <Node name="testFinal" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testFinal FirstBuild="True" PreferredExecutionTarget="/Users/valentinlagarde/Desktop/App/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
